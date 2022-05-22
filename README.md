@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dancovill
-- 👀 I’m interested in Usability
+- 👀 I’m interested in User Experience
 - 🌱 I’m currently learning every aspect of UX
 - 💞️ I’m looking to collaborate on research, testing, UI
 - 📫 How to reach me dan@studiovillano.com
